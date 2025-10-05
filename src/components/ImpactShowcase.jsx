@@ -34,7 +34,7 @@ const ImpactShowcase = () => {
           <Lightbulb className="w-5 h-5 text-orange-600 flex-shrink-0 mt-0.5" />
           <div>
             <h2 className="text-base font-heading font-bold text-gray-800 mb-0.5">
-              Problem Statement #25026
+              Problem Statement #25024
             </h2>
             <p className="text-gray-700 text-xs">
               API Development for Integrating NAMASTE & ICD-11 (TM2) with Indian EHR-Compliant EMRs
